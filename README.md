@@ -1,3 +1,3 @@
 # matchingjocl
 
-During this project, we received data from TotalEnergies that contains signals representing the quantity of gas found in different depths. Each signal represents a hole dug in a specific place. We'll use sparse methods of resolving over-determined systems to learn a dictionary from the training database. Finally, we'll use such dictionary to reconstruct the incomplete signals. 
+During this project, we'll develop an algorithm that'll match companies with job seekers and vice-versa. The algorithm will suggest individuals and companies that best match each side's requirements. We'll model the problem into a distance minimization; data contains both quantitative and qualitative data.
